@@ -7,10 +7,10 @@ admin:utils os secure status
 OS Security status:             enabled
 Current mode:                   enforcing
 ```
-```
-admin:**utils os secure permissive**
+<pre>
+admin:<b>utils os secure permissive</b>
 OS security mode change to Permissive
-```
+</pre>
 ```
 admin:utils os secure status
 OS Security status:             enabled
