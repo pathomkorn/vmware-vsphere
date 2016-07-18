@@ -6,10 +6,12 @@
 admin:utils os secure status
 OS Security status:             enabled
 Current mode:                   enforcing
-
+```
+```
 admin:utils os secure permissive
 OS security mode change to Permissive
-
+```
+```
 admin:utils os secure status
 OS Security status:             enabled
 Current mode:                   permissive
@@ -27,7 +29,8 @@ Current mode:                   permissive
 admin:utils vmtools status
 
 VMware Tools are out-of-date. Please run "utils vmtools upgrade"
-
+```
+```
 admin:utils vmtools upgrade
 
 ***   W A R N I N G   ***
