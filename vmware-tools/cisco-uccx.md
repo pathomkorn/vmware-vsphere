@@ -7,7 +7,6 @@
 admin:<b>utils os secure status</b>
 OS Security status:             enabled
 Current mode:                   enforcing
-
 </pre>
 <pre>
 admin:<b>utils os secure permissive</b>
