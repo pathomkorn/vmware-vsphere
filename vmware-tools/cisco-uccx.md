@@ -8,7 +8,7 @@ OS Security status:             enabled
 Current mode:                   enforcing
 ```
 ```
-admin:utils os secure permissive
+admin:**utils os secure permissive**
 OS security mode change to Permissive
 ```
 ```
