@@ -13,8 +13,6 @@ OS security mode change to Permissive
 admin:utils os secure status
 OS Security status:             enabled
 Current mode:                   permissive
-
-admin:
 ```
 ## VMware vSphere
 * Login VMware vSphere client
